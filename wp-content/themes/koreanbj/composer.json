@@ -1,0 +1,21 @@
+{
+    "name": "koreanbj/theme",
+    "description": "Watch and download the Korean BJ videos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "KoreanBJ\\": "includes/"
+        },
+        "files": [
+            "includes/bootstrap.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Korean BJ",
+            "email": "info@vipbj.mom"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
