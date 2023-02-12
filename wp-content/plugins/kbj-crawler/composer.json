@@ -1,0 +1,17 @@
+{
+    "name": "puleeno/kbj-crawler",
+    "autoload": {
+        "psr-4": {
+            "Kbj\\Crawler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {
+        "ramphor/rake": "^1.0"
+    }
+}
