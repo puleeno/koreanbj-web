@@ -1,0 +1,62 @@
+{
+	"folders": [
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/core"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/admin"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/asset"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/command"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/component"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/gutenberg"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/helpers"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/languages"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/option"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/pagination"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/plates"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/post-layout"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/seo"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/site-layout"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/template"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/template-engine"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/widget"
+		},
+		{
+			"path": "wp-content/themes/jankx/vendor/jankx/wordpress-specs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

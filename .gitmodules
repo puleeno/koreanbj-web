@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/jankx"]
+	path = wp-content/themes/jankx
+	url = https://github.com/jankx/jankx.git
