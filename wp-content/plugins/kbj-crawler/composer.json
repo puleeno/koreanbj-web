@@ -11,7 +11,10 @@
             "email": "puleeno@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
-        "ramphor/rake": "^1.0"
+        "ramphor/rake": "^1.0",
+        "puleeno/rake-wordpress-adapter": "dev-master",
+        "puleeno/rake-phpwebdriver-request": "dev-master"
     }
 }

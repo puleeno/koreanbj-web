@@ -73,6 +73,14 @@
 			"path": "wp-content/themes/jankx/vendor/jankx/wordpress-specs"
 		},
 		{
+			"name": "rake-wordpress-adapter",
+			"path": "wp-content/plugins/kbj-crawler/vendor/puleeno/rake-wordpress-adapter"
+		},
+		{
+			"name": "rake-phpwebdriver-request",
+			"path": "wp-content/plugins/kbj-crawler/vendor/puleeno/rake-phpwebdriver-request"
+		},
+		{
 			"name": "rake-framework",
 			"path": "wp-content/plugins/kbj-crawler/vendor/ramphor/rake"
 		},
